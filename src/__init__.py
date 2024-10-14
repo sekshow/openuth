@@ -15,8 +15,6 @@ path_data = '../data'
 # 学習モデル
 model_name = 'no' + str(subject_number) + 'day1_model.sav'
 path_model = '../model/' + model_name
-model_name = 'no' + str(subject_number) + 'day1_model.sav'
-path_model = '../model/' + model_name
 
 # 閾値
 threshold_move = 5 # 小さすぎるジェスチャの除去
