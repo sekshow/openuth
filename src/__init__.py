@@ -3,8 +3,8 @@
 # カーネルを再起動する必要がある．
 ##
 
-subject_number = 0 # ユーザID
-times_number = 4 # 何日目？
+subject_number = 4 # ユーザID
+times_number = 1 # 何日目？
 exp = True # 計測が初回の場合True
 
 aruduino_no = 'COM5' # Arduinoとの接続ポート
