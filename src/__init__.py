@@ -3,7 +3,7 @@
 # カーネルを再起動する必要がある．
 ##
 
-subject_number = 6 # ユーザID
+subject_number = 14 # ユーザID
 times_number = 1 # 何日目？
 exp = True # 計測が初回の場合True
 
